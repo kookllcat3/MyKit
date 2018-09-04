@@ -3,3 +3,6 @@ UnityPackageManager/
 .vs/
 MyKit.csproj
 MyKit.sln
+*.csproj
+ProjectSettings/
+Temp/
